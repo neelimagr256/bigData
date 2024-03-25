@@ -58,7 +58,7 @@ object HelloWorld {
     }
 }
 
-Leetcode code - 
+Leetcode code - CODE TESTED BY ME
 import scala.util.control.Breaks._
 object Solution {
     def twoSum(nums: Array[Int], target: Int): Array[Int] = {
